@@ -1,9 +1,0 @@
-﻿{
-  "name": "chrome_screen_capture_save",
-  "description": "Chrome Native Messaging API Host",
-  "path": "C:\\Sudhakar\\POC\\NativeChromHost\\NativeChromHost\\bin\\Debug\\NativeChromHost.exe",
-  "type": "stdio",
-  "allowed_origins": [
-    "chrome-extension://fnlnhhmpjpkognndcfeoelabgkbciejd/"
-  ]
-}
