@@ -51,7 +51,7 @@
   <ItemGroup>
     <None Include="AddHostToRegistry.bat" />
     <None Include="App.config" />
-    <None Include="dell_chrome_screen_capture_save.json" />
+    <None Include="chrome_screen_capture_save.json" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
