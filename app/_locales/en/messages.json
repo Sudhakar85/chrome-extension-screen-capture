@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "dell-screen-capture",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Capture the defined URL in specific interval and convert the page into image for slide show ",
+    "description": "The description of the application"
+  }
+}
